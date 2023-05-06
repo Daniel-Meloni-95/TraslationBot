@@ -1,2 +1,2 @@
 # TraslationBot
-Traslate a word from english to ialian
+Traslate a word from english to italian
